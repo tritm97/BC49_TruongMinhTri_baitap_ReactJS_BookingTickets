@@ -60,8 +60,8 @@ class HangGhe extends Component {
   render() {
     return (
       <div
-        className="text-light text-start ms-5 mt-3"
-        style={{ fontSize: "30px" }}
+        className="text-light text-start ms-5 mt-0"
+        style={{ fontSize: "20px" }}
       >
         {this.renderHangGhe()}
       </div>
